@@ -157,7 +157,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-CiferTech - [@twitter](https://twitter.com/cifertech1) - CiferTech@gmali.com
+CiferTech - [@twitter](https://twitter.com/cifertech1) - mohamedmusaiyaf303@gmali.com
 
 Project Link: [https://github.com/Musaiyaf/Musaiyaf-nRFBox/edit/main/README.md](https://github.com/Musaiyaf/Musaiyaf-nRFBox/edit/main/README.md)
 
