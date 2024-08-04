@@ -159,7 +159,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 CiferTech - [@twitter](https://twitter.com/cifertech1) - CiferTech@gmali.com
 
-Project Link: [https://github.com/cifertech/nRFBox](https://github.com/cifertech/nRFBox)
+Project Link: [https://github.com/Musaiyaf/Musaiyaf-nRFBox/edit/main/README.md](https://github.com/Musaiyaf/Musaiyaf-nRFBox/edit/main/README.md)
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements 
